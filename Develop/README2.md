@@ -1,27 +1,29 @@
-# readme gen 
+# readme-generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-generates readmes based on question response 
+This project creates a readme based on the answers you give to the inquirer prompt.
 
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
+* [Contributing](#Contributing)
+* [License](#License)
+* [Tests](#Tests)
+* [Questions](#Questions)
 
 ## Installation
-pull the repository onto your computer and run index using node in the terminal 
+once you clone the repo to your computer, install inquirer with npm i inquirer, then simply run node index.js in the terminal.
 
 ## Usage 
-create a readme for your project
+Once you have ran node index.js in the terminal, answer the prompt questions that show up. The answers will be put into the md file named README2.
 
 ## Contributing
-push work to remote branch and create merge request to add work 
+
 
 ## License
 MIT
 
 ## Tests
-undefined
+No tests were created for this application. 
 
 ## Questions
-Jaron15 is my github username. 
+My Github username is Jaron15 and my email is jjkenyon777@gmail.com. Please feel free to reach out for any further questions!
